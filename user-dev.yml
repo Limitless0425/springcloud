@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: myshop-user-v2
+    name: myshop-user
   datasource:
     url: jdbc:mysql://192.168.74.128:3307/springcloud?characterEncoding=UTF8&useSSL=false
     username: root
