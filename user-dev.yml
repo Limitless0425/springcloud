@@ -17,6 +17,12 @@ spring:
 springdoc:
   swagger-ui:
     path: /swagger-ui.html
+  rabbitmq:
+    host: 192.168.74.128
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
 
 eureka:
   client:
