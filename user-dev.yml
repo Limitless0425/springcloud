@@ -5,7 +5,7 @@ spring:
   application:
     name: myshop-user-v2
   datasource:
-    url: jdbc:mysql://192.168.74.128:3306/springcloud?characterEncoding=UTF8&useSSL=false
+    url: jdbc:mysql://localhost:3306/springcloud_3307?characterEncoding=UTF8&useSSL=false
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
